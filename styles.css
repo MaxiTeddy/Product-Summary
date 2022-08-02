@@ -1,0 +1,101 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+}
+
+
+.page{
+    margin: 70px auto;
+    background-color: hsl(225, 100%, 98%);
+    width: 250px;
+    height: 445px;
+    border-radius: 13px;
+}
+
+
+.image{
+    width: 250px;
+    border-radius: 13px 13px 0 0;
+}
+
+p{
+    padding: 0 30px;
+    font-size: 11px;
+    line-height: 19px;
+    font-weight: 500;
+}
+
+h1{
+    font-size: 16px;
+    font-weight: 900;
+    padding: 7px 0;
+    color: hsl(223, 47%, 23%);
+}
+
+.subscribe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border-radius: 10px;
+    height: 60px;
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size:  10px;
+}
+
+.subscribe p{
+    font-weight: 900;
+    padding-right: 25px;
+    color: hsl(223, 47%, 23%);
+    
+}
+
+.svg{
+    padding-left: 8px;
+    width: 40px;
+}
+
+span{
+    font-weight: normal;
+    color: hsl(224, 23%, 60%);
+}
+
+a{
+    padding-right: 10px;
+    color: hsl(245, 75%, 52%);
+}
+
+button{
+    height: 39px;
+    margin-right: 10px;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+}
+
+.one{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 25px;
+    background-color: hsl(245, 75%, 52%);
+    border: 2px solid hsl(245, 75%, 52%);
+    border-radius: 9px;
+    color: hsl(225, 100%, 98%);
+    box-shadow: 0px 13px 5px 0 white;
+    font-weight: 900;
+}
+
+.two{
+    margin-top: 15px;
+    margin-left: 32%;
+    margin-bottom: 1px;
+    background-color: hsl(225, 100%, 98%);
+    border: 2px solid hsl(225, 100%, 98%);
+    color: hsl(224, 23%, 60%);
+    font-weight: bolder;
+}
