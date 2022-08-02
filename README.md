@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](https://prod-summary.vercel.app/)
+![](https://lh3.googleusercontent.com/1mI50Mf9am0awraO12IJnmqxcJONSrzUYHwgNHtsy1Nqh5CAGHUBdvt6EDT3rkSoQbA=w2400)
 
 ### Links
 
