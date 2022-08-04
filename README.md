@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [This is the solution page for the project](https://github.com/MaxiTeddy/Product-Summary)
-- Live Site URL: [Here is the live solution](https://your-live-site-url.com)
+- Live Site URL: [Here is the live solution](https://prod-summary.vercel.app/)
 
 ## My process
 
